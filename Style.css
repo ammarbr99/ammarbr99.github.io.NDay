@@ -1,0 +1,339 @@
+.TopBorder #top {
+
+  position: relative;
+  width: 2300px;
+  height: 100px;
+  
+     
+}
+
+.TopBorder #flag {
+
+  position: relative;
+  bottom: 100px;
+  width: 700px;
+  height: 95px;
+  
+     
+}
+
+
+.SecondBorder #border  {
+ z-index: 1;
+ position: relative;
+ width: 1195px;
+ height: 200px;
+ left: 300px;
+ overflow-y: hidden;
+    overflow-x: hidden;
+}
+.SecondBorder #pic{
+    
+position: relative;
+right: 950px;
+bottom: 0px;
+z-index: 2;
+width: 400px;
+height: 200px;
+overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+.SecondBorder p {
+    
+color: red;
+position: relative;
+left: 890px;
+bottom: 170px;
+z-index: 1;
+font-size: 45pt ;
+overflow-y: hidden;
+    overflow-x: hidden;
+
+}
+
+.Kings  {
+    
+   
+    position: relative;
+    left: 1500px;
+    bottom: 295px;
+   
+    overflow-y: hidden;
+    overflow-x: hidden;
+    }
+
+.Kings #Border  {
+    
+   
+    position: relative;
+    bottom: 100px;
+    z-index: 1;
+    width: 550px;
+    height: 1500px;
+
+    }
+
+    .Kings #kng  {
+         width: 550px;
+         height: 240px;
+        position: relative;
+       right: 555px;
+        bottom: 1360px;
+       z-index: 2;
+        
+        }
+
+      .topic{
+          position: relative;
+           font-size: 16pt;
+           font-weight: bold;
+           z-index: 3;
+           bottom: 1355px;
+          
+        }
+
+        
+      .DataOfTopic{
+        position: relative;
+        font-size: 16pt;
+        z-index: 3;
+        bottom: 1345px;
+        left: 65px;
+        
+      }
+
+      #Special.DataOfTopic{
+     
+        font-size: 19pt;
+        z-index: 3;
+        font-weight: bold;
+        
+        
+      }
+
+     #boxOne.box{
+      position: relative;
+      color: #EEEEEE;
+      background-color:#EEEEEE;
+      border: solid;
+      width: 950px;
+      height: 3250px;
+      border-width: 2px;
+      bottom: 2850px;
+      left: 13px;
+     z-index: 4;
+     overflow-y: hidden;
+     overflow-x: hidden;
+     }
+     body{
+      
+
+     }
+
+          .comment{
+            background-color:snow !important;
+          }
+          
+     #one.comment{
+      position: relative;
+      color: black;
+      border: solid;
+      width: 900px;
+      height: 200px;
+      border-width: 2px;
+      bottom: 6100px;
+      right: 10px;
+     z-index: 5 ;
+     border-radius: 20px;
+     
+     }
+     
+     #two.comment{
+      position: relative;
+      color: black;
+      background-color:#FFFFFF;
+      border: solid;
+      width: 900px;
+      height: 200px;
+      border-width: 2px;
+      bottom: 6000px;
+      right: 10px;
+     z-index: 5 ;
+     border-radius: 20px;
+  
+     }
+
+     #three.comment{
+      position: relative;
+      color: black;
+      background-color:#FFFFFF;
+      border: solid;
+      width: 900px;
+      height: 200px;
+      border-width: 2px;
+      bottom: 5900px;
+      right: 10px;
+     z-index: 5;
+     border-radius: 20px;
+     }
+
+     #four.comment{
+      position: relative;
+      color: black;
+      background-color:#FFFFFF;
+      border: solid;
+      width: 900px;
+      height: 200px;
+      border-width: 2px;
+      bottom: 5800px;
+      right: 10px;
+     z-index: 5 ;
+     border-radius: 20px;
+     }
+
+     #five.comment{
+      position: relative;
+      color: black;
+      background-color:#FFFFFF;
+      border: solid;
+      width: 900px;
+      height: 200px;
+      border-width: 2px;
+      bottom: 5700px;
+      right: 10px;
+     z-index: 5 ;
+     border-radius: 20px;
+     }
+
+     #six.comment{
+      position: relative;
+      color: black;
+      background-color:#FFFFFF;
+      border: solid;
+      width: 900px;
+      height: 200px;
+      border-width: 2px;
+      bottom: 5600px;
+      right: 10px;
+     z-index: 5 ;
+     border-radius: 20px;
+     }
+
+     #seven.comment{
+      position: relative;
+      color: black;
+      background-color:#FFFFFF;
+      border: solid;
+      width: 900px;
+      height: 200px;
+      border-width: 2px;
+      bottom: 5500px;
+      right: 10px;
+     z-index: 5 ;
+     border-radius: 20px;
+     }
+
+     #eight.comment{
+      position: relative;
+      color: black;
+      background-color:#FFFFFF;
+      border: solid;
+      width: 900px;
+      height: 200px;
+      border-width: 2px;
+      bottom: 5400px;
+      right: 10px;
+     z-index: 5 ;
+     border-radius: 20px;
+     }
+
+     #nine.comment{
+      position: relative;
+      color: black;
+      background-color:#FFFFFF;
+      border: solid;
+      width: 900px;
+      height: 200px;
+      border-width: 2px;
+      bottom: 5300px;
+      right: 10px;
+     z-index: 5 ;
+     border-radius: 20px;
+     }
+
+     #ten.comment{
+      position: relative;
+      color: black;
+      background-color:#FFFFFF;
+      border: solid;
+      width: 900px;
+      height: 200px;
+      border-width: 2px;
+      bottom: 5200px;
+      right: 10px;
+     z-index: 5 ;
+     border-radius: 20px;
+     overflow-y: hidden;
+     
+     }
+
+#test{
+  overflow-y: hidden;
+}
+
+     .logo{
+
+      height: 50px;
+      width: 50px;
+      position: relative;
+      right: 400px;
+      top: 10px;
+     }
+
+     .user{
+
+      height: 40px;
+      width: 40px;
+      position: relative;
+      right: 435px;
+      top: 93px;
+     }
+
+     .name{
+      
+      position: relative;
+      right: 380px;
+      top: 50px;
+     
+     }
+
+     .from{
+      
+      position: relative;
+      right: 410px;
+      top: 40px;
+     
+     }
+
+     
+
+
+     .header{
+position: relative;
+bottom: 70px;
+
+     }
+
+     .commentText{
+
+      
+      font-weight: bold;
+      right: 40px;
+      position: relative;
+      
+     }
+
+ 
+ 
+
